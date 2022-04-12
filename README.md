@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdrianT18
+- 🌱 I’m currently learning java
+- New to coding
+- I have no idea how to use this app
