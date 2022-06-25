@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @AdrianT18
-- 🌱 I’m currently learning java
-- New to coding
-- I have no idea how to use this app
+<p align="center">
+Hello, I'm Adrian 👋 
+</p>
+I am currently studying computer science at Brunel. I am going to start publishing my jounrey on here and hopefully inspire other juniour developers 😊
+</p>
+
+**Current Goals**
+----------------------------------------------------
+</p>
+
+ - Improve Java skills
+ - Make 2 advanced projects by the end of 2022
+ - Finish ATM machine using database project by the end of July 2022
