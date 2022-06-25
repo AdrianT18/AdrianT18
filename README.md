@@ -1,7 +1,7 @@
 <p align="center">
 Hello, I'm Adrian 👋 
 </p>
-I am currently studying computer science at Brunel. I am going to start publishing my jounrey on here and hopefully inspire other juniour developers 😊
+I am currently studying computer science at Brunel. I am going to start publishing my jounrey on here and in no time have amazing projects 😊
 </p>
 
 **Current Goals**
