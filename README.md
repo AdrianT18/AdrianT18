@@ -8,7 +8,7 @@ I am going to start posting my jounrey on here and hopefully have amazing projec
  - [ ] Improve Java skills
  - [ ] Make 2 advanced projects by the end of 2022 1/2 :white_check_mark:
  - [x] Finish ATM machine using database project by the end of July 2022
- - [ ] Learn web development
+ - [x] Learn web development
  
  ### Statistics ###
  ----------
