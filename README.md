@@ -18,4 +18,3 @@ I am going to start posting my jounrey on here and hopefully have amazing projec
 
 ![Adrian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdrianT18&theme=city_lights) 
 
-![](https://komarev.com/ghpvc/?username=AdrianT18)
