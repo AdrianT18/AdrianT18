@@ -16,5 +16,3 @@ I am going to start posting my jounrey on here and hopefully have amazing projec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianT18&layout=compact&theme=city_lights)
 
-![Adrian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdrianT18&theme=city_lights) 
-
