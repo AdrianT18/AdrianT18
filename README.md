@@ -12,7 +12,5 @@ I am going to start posting my jounrey on here and hopefully have amazing projec
  
  ### Statistics ###
  ----------
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianT18&show_icons=true&theme=city_lights)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianT18&layout=compact&theme=city_lights)
 
