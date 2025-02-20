@@ -14,7 +14,7 @@ Currently a **Software Engineer at easyPet.care**, I am driving innovation by de
 I contributed to the development of a **multi-sensor fusion system for autonomous navigation**, integrating **LiDAR sensors with stereo cameras** using **Extended Kalman Filters and Bayesian Networks**.  
 
 ### 🌐 Freelance Web Development  
-I have built **custom, SEO-optimized websites** using **React.js, Next.js, Shopify, and WordPress**. My work involves:    
+I have built **custom, SEO-optimised websites** using **React.js, Next.js, Shopify, and WordPress**.   
 
 ## 🎯 Beyond Coding  
 I love **sharpening my coding skills**, building random projects, and staying **versatile** in all things tech-related.  
